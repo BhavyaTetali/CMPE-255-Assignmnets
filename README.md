@@ -1,1 +1,1 @@
-# CMPE-255-Assignmnets
+# CMPE-255-Assignments
