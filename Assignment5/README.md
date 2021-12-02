@@ -36,3 +36,7 @@ Similar to Apriori, FP-Growth genrate assosciation or rules in the following ste
 
 *   Find frequent combinations called as 'itemsets' that satisfy minimum support threshold. 
 *   Generate rules from frequent itemsets utilizing FP-Tree.
+
+# Colab
+
+[link](https://colab.research.google.com/drive/1_PAWinJB4UoiHlyoskp9HBMVCXPhUDj-?usp=sharing)
